@@ -1,0 +1,11 @@
+#  Libraries used in this project
+flask
+scikit-learn
+xgboost
+joblib
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+pickle
